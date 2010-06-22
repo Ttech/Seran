@@ -1,0 +1,9 @@
+SERAN .001
+
+IRC Stats System desigined to run as a IRC bot instead of a Service
+this allows it to run on any system and server as long as you can
+install ii (fifo irc client) to allow the system to communicate
+with the irc server. Any channel will work and the bot does not 
+need to be in the channel, simply make sure the channel is not +s
+or +p or other private / secret channel modes.
+
